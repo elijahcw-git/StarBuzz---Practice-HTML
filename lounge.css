@@ -1,0 +1,35 @@
+	body {
+		font-family: sans-serif;
+	}
+	p {
+	    color: maroon;  
+	    
+	}
+	
+	h1, h2{
+		
+		color: gray;
+		
+	}
+	
+	h1{
+		border-bottom: 1px solid black;
+	}
+	
+	blockquote.greentea, p.greentea {
+		color: green;
+	}
+
+	p.blueberry {
+		color: blue;
+	}
+
+	p.raspberry {
+		color: purple;
+	}
+	
+	p.cranberry {
+		color: red;
+	}
+
+	
